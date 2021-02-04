@@ -17,9 +17,15 @@
 #lezioni .row>.right {
   width: 100%;
   float: none;
+  margin-bottom: 15px;
+  padding: 0 25px;
 }
-
-
+h1{
+    font-size: 25px;
+}
+h3{
+    font-size: 20px;
+}
 
 /* ___________INIZIO SECONDA RIGA________ */
 
@@ -28,6 +34,8 @@
 #steps .row>.right {
   float: none;
   width: 100%;
+  margin-bottom: 20px;
+  padding: 0 25px;
 }
 
 /* ______________PARTE FINALE___________ */
@@ -37,6 +45,7 @@
 #why .row>.third {
   width: 100%;
   margin-top: 10px;
+  padding: 0 20px;
 }
 
 #why .row img {
