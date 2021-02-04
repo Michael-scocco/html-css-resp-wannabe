@@ -2,8 +2,13 @@
 
 
 
-
 @media screen and (max-width: 420px) {
+
+*{
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
 
 
 /* ______________INIZIO REGOLE PRIMA RIGA________ */
